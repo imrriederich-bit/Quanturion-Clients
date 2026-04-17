@@ -20,6 +20,12 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1f0531c3-a2c4-4366-a773-6a546627ccdd"
+      }
+    },
+    "owner": "m.riederich"
   }
 }
